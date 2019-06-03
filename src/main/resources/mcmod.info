@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ftalchemist",
+  "name": "FullThrottle Alchemist",
+  "description": "A mod where you play with elements. Be careful with Potassium though. It may explode XD.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["xxMrPHDxx"],
+  "credits": "BlueDart",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
